@@ -1,14 +1,21 @@
-# Food Ordering App - Flutter UI
+# [VUE] Login Google - Chat Realtime
 
-## [Watch it on YouTube](https://youtu.be/F0ujC60wHwc)
+## [Watch it on YouTube](https://www.youtube.com/watch?v=LTmqDqwnw1Y&t=707s)
 
 **Packages we are using:**
 
-- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
-- smooth_star_rating: [link](https://pub.dev/packages/smooth_star_rating)
+- firebase authentication
+- firebase storage
 
-We design two pages one is the home page and another one is details page that will help you to design clear interfaces for food delivery app faster and easier.
+We design two pages one is the login page and another one is messenge page that will help me to done basic project about realtime firebase.
 
-### Food App Final UI
+### Chat Realtime Final UI
 
-![App UI](/ui.png)
+![App UI](/vue_chat_real_time.png)
+
+
+### Link document reference: 
+- https://www.positronx.io/vue-js-firebase-authentication-tutorial-example/
+- https://firebase.google.com/docs
+- https://vuejs.org/guide/introduction.html
+- https://www.youtube.com/watch?v=q1CNKjPPfdc&list=PLv6GftO355AtDjStqeyXvhA1oRLuhvJWf
